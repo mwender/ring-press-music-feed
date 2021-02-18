@@ -24,6 +24,12 @@ Then take the contents of `readme.html` and replace everything between the `<bod
 
 ## Changlog
 
+__1.0.1__
+
+* Removing shipping data from individual items in favor of setting at the GMA account level.
+
+Published 02/18/2021.
+
 __1.0.0__
 
 * First release.
